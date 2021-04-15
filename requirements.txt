@@ -24,7 +24,6 @@ filelock==3.0.12
 gitdb==4.0.7
 GitPython==3.1.14
 idna==2.10
-ipykernel==5.5.2
 ipython==7.22.0
 ipython-genutils==0.2.0
 ipywidgets==7.6.3
